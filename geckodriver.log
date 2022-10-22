@@ -105,3 +105,16 @@ DevTools listening on ws://127.0.0.1:51546/devtools/browser/0a766667-7823-45f9-9
 1666448123504	Marionette	INFO	Stopped listening on port 51556
 console.error: services.settings: 
   main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+1666454738060	geckodriver	INFO	Listening on 127.0.0.1:51925
+1666454741142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51926" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4910u5"
+1666454742434	Marionette	INFO	Marionette enabled
+1666454742447	Marionette	INFO	Listening on port 51935
+Read port: 51935
+WebDriver BiDi listening on ws://127.0.0.1:51926
+1666454742796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4910u5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51926/devtools/browser/c1692575-f187-4636-82f1-c1a7f2d0cbc8
+1666454748217	Marionette	INFO	Stopped listening on port 51935
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+[Parent 4852, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
