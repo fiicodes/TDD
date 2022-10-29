@@ -118,3 +118,48 @@ DevTools listening on ws://127.0.0.1:51926/devtools/browser/c1692575-f187-4636-8
 console.error: services.settings: 
   main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
 [Parent 4852, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+1667046687511	geckodriver	INFO	Listening on 127.0.0.1:52005
+1667046690605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52006" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileopW1Ip"
+1667046760381	geckodriver	INFO	Listening on 127.0.0.1:52198
+1667046763458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52199" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEV8q6r"
+1667046764305	Marionette	INFO	Marionette enabled
+1667046764327	Marionette	INFO	Listening on port 52211
+Read port: 52211
+WebDriver BiDi listening on ws://127.0.0.1:52199
+1667046764665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileEV8q6r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52199/devtools/browser/a1580f88-5b89-43cc-8bb7-6c8ea473d8a9
+1667046775940	Marionette	INFO	Stopped listening on port 52211
+1667047070680	geckodriver	INFO	Listening on 127.0.0.1:52315
+1667047073765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWqMId8"
+1667047074742	Marionette	INFO	Marionette enabled
+1667047074751	Marionette	INFO	Listening on port 52326
+Read port: 52326
+WebDriver BiDi listening on ws://127.0.0.1:52316
+1667047075067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileWqMId8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52316/devtools/browser/afb64c24-09d7-4cb9-b901-cf7494649202
+1667047085660	Marionette	INFO	Stopped listening on port 52326
+[Parent 7596, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:554
+1667047768916	geckodriver	INFO	Listening on 127.0.0.1:52412
+1667047771956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4wwbZy"
+1667047772610	Marionette	INFO	Marionette enabled
+1667047772619	Marionette	INFO	Listening on port 52422
+Read port: 52422
+WebDriver BiDi listening on ws://127.0.0.1:52413
+1667047772935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile4wwbZy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52413/devtools/browser/064aea00-95f0-4372-b164-a4e377a125d5
+1667047783670	Marionette	INFO	Stopped listening on port 52422
+1667048151678	geckodriver	INFO	Listening on 127.0.0.1:52509
+1667048154741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52510" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQ6CYnz"
+1667048155429	Marionette	INFO	Marionette enabled
+1667048155440	Marionette	INFO	Listening on port 52519
+Read port: 52519
+WebDriver BiDi listening on ws://127.0.0.1:52510
+1667048155756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileQ6CYnz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52510/devtools/browser/0efa58a3-b4e3-459e-8821-a1bfbf40a2d5
+1667048160263	Marionette	INFO	Stopped listening on port 52519
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
